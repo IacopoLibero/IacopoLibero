@@ -30,6 +30,8 @@ I am motivated, curious, and always eager to learn new technologies and methodol
 - **Web Development:** Client-server applications, database design, API development  
 - **Cybersecurity:** Introduction to security principles and techniques 
 
+> I am someone who builds, teaches, and studies technology with seriousness, curiosity, and a critical spirit—and who occasionally asks questions that are objectively stupid, but with full awareness.
+
 ---
 
 ## 📚 Education
