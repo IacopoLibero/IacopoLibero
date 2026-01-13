@@ -1,58 +1,57 @@
+# Iacopo Libero Bernabei
 
-
+🎓 **IT Specialist & Cybersecurity Specialist** | 💻 **Full-Stack Developer**<br><br>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 Hey there!
 
-# Iacopo Libero Bernabei
+I'm a developer passionate about **full-stack web development** and **cybersecurity**. I recently completed my IFTS specialization in network security and data protection, where I dove deep into ethical hacking, infrastructure automation, and secure systems design.
 
-🎓 **Computer Science Graduate** | 💻 **Aspiring Full-Stack Web Developer** | 🔐 **Cybersecurity Enthusiast**<br><br>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white)
-## 👋 About Me
+>I am someone who builds, teaches, and studies technology with seriousness, curiosity, and a critical spirit—and who occasionally asks questions that are objectively stupid, but with full awareness.
 
-I am a young developer passionate about **full-stack web development** and **cybersecurity**. 
-Currently, I am attending a cybersecurity course at PIN in Prato to enhance my skills in the field of IT security.
-
-With my education at ITIS Antonio Meucci in Florence, I have built a strong technical foundation that includes:
-
-- **Programming Languages:** Java, HTML5, CSS, JavaScript, PHP, SQL  
-- **Frameworks:** Bootstrap,Ionic
-- **Operating Systems:** Linux, Windows  
-- **Networking:** Network infrastructure design, ACLs, TCP/IP protocol  
-- **Development Tools:** Git, hardware network configuration  
-
-I am motivated, curious, and always eager to learn new technologies and methodologies to expand my expertise.
+I'm the kind of person who gets excited about both the aesthetics of a well-designed UI and the elegance of a secure, well-architected backend. Always learning, always building. 🚀
 
 ---
 
-## 🚀 Key Skills
+## 🛠️ What I Work With
 
-- **Web Development:** Client-server applications, database design, API development  
-- **Cybersecurity:** Introduction to security principles and techniques 
+**Frontend & Web:** JavaScript, HTML5, CSS3, Bootstrap, modern React patterns  
+**Backend:** PHP, SQL, Node.js, API design  
+**Security:** Ethical hacking basics, cryptography concepts, network security, incident management  
+**Tools & Practices:** Git, Linux/Windows administration, version control, clean code principles  
 
-> I am someone who builds, teaches, and studies technology with seriousness, curiosity, and a critical spirit—and who occasionally asks questions that are objectively stupid, but with full awareness.
-
----
-
-## 📚 Education
-
-- **Diploma in Computer Science**  
-  ITIS Antonio Meucci, Florence (07/2024)  
-
-- **Cybersecurity Course**  
-  PIN, Prato (Ongoing)  
+I'm comfortable jumping between frontend and backend, and lately I'm really into infrastructure automation and cloud architecture.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IacopoLibero&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br><br>
+## 🎯 What I've Done
+
+**Internship At Neboola S.R.L.** (May - July 2025)  
+Worked with real-world cloud infrastructure and security projects. Got hands-on experience with Terraform for Infrastructure as Code, automated server configuration with Ansible, and Kubernetes fundamentals. Learned a ton about how real-world DevOps works.
+
+**Freelance Web Development** (Since September 2024)  
+Building full-stack web applications for clients. Handling everything from frontend design to backend architecture and database design.
+
+**IFTS Cybersecurity Specialization** (2024-2025)  
+Completed advanced training in network security and data protection. Studied ethical hacking, cryptography, incident response, and security policies. Graduated with a score of 93/100.
+
+**IT Diploma @ ITIS Antonio Meucci** (2021-2024)  
+Solid foundation in computer science, programming, networking, and database design.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=IacopoLibero&theme=bear&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=IacopoLibero&theme=bear&hide_border=false)<br>
 
 ---
 
 ## 📬 Contact
 
-📍 **Florence, Italy**  
+📍 **Florence, Italy**
 📧 [iacopoliberolavoro@gmail.com](mailto:iacopoliberolavoro@gmail.com)   
 
 ---
