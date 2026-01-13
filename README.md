@@ -40,7 +40,7 @@ Solid foundation in computer science, programming, networking, and database desi
 
 ## Contact
 
-You can find my contact information on my website: [iacopolibero.dev](https://iacopolibero.dev/about)
+You can find my contact information on my website: [iacopolibero.dev](https://iacopolibero.dev/about)<br>
 Feel free to reach out for suggestions, collaborations, or just to connect!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
