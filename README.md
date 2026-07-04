@@ -30,7 +30,7 @@ I'm comfortable jumping between frontend and backend, and lately I'm really into
 Worked with real-world cloud infrastructure and security projects. Got hands-on experience with Terraform for Infrastructure as Code, automated server configuration with Ansible, and Kubernetes fundamentals. Learned a ton about how real-world DevOps works.
 
 **Freelance Web Development** (Since September 2024)  
-Building full-stack web applications for clients. Handling everything from frontend design to backend architecture and database design.
+Building full-stack web applications for clients. Handling everything from desingning the prototipe to frontend development to backend architecture and database design.
 
 **IFTS Cybersecurity Specialization** (2024-2025)  
 Completed advanced training in network security and data protection. Studied ethical hacking, cryptography, incident response, and security policies. Graduated with a score of 93/100.
